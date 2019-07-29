@@ -38,3 +38,12 @@ Verification Emails
 You will need to verify your email address before you can use the system. After completing the initial sign-up page, you will be sent a link to the email address supplied.
 
 For security reasons, the link is only valid for a short period of time. If the link has expired, or you get some other error, please contact support who will be able to help.
+
+
+Invitation Emails
+=======
+
+In a multi-user (Company) environment, administrators can invite additional users to use the system.
+
+In invited user will need to click the link in the invitation email to complete the setup process. Like the verrification email, the link is only valid for a short period of time. If there are issues with the invite code, your administrator can send futher invitations. As always, if you are stuck, contact support who will be able to help.
+
