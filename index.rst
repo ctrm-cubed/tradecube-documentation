@@ -31,3 +31,10 @@ Once your email is verified, enter your personal details, then review the Terms 
 After accepting the Terms, you will need to initiate your system. Use the preconfigured database to set up a standardised environment.
 
 The setup process takes between 30 and 90 seconds. Once completed, you can start to use the system.
+
+Verification Emails
+=======
+
+You will need to verify your email address before you can use the system. After completing the initial sign-up page, you will be sent a link to the email address supplied.
+
+For security reasons, the link is only valid for a short period of time. If the link has expired, or you get some other error, please contact support who will be able to help.
